@@ -1,0 +1,2 @@
+webpackJsonp([3],{"7I3K":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"message-container"},[this._v("\n    留言\n")])},staticRenderFns:[]};var a=n("VU/8")({name:"Message"},s,!1,function(e){n("iiDT")},"data-v-11a1136b",null);t.default=a.exports},iiDT:function(e,t){}});
+//# sourceMappingURL=3.b71fb247d0bed7425d7e.js.map
