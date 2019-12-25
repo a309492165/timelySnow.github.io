@@ -1,2 +1,0 @@
-webpackJsonp([1],{OSYT:function(e,t){},k1oo:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var o={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"look-container"},[this._v("\n    看点\n")])},staticRenderFns:[]};var a=n("VU/8")({name:"Look"},o,!1,function(e){n("OSYT")},"data-v-6d4bee9e",null);t.default=a.exports}});
-//# sourceMappingURL=1.5ec1138f2340aed1aca1.js.map
